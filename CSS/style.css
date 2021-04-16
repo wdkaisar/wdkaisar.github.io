@@ -2,8 +2,31 @@ body{
     font-family: 'Noto Serif', serif;
 }
 .banner-container{
-    background-color: #041b0b;
+    background-color: #425f4b;
 }
 .banner-column{
-    background-color: aqua;
+    background-color: rgb(30, 126, 126);
+    margin:auto;
+}
+.navbar-container{
+    background-color: rgb(2, 16, 24);
+}
+.nav-list:hover{
+    background-color: cornflowerblue;
+    transform: scale(1.1);
+}
+.about-container{
+    background-color: sandybrown;
+}
+.education-container{
+    background-color: rgb(3, 65, 54);
+}
+.redtypecolor{
+    color: rgb(231, 140, 140);
+}
+.circle{
+    background-color: salmon;
+    width:140px;
+    height:140px;
+    border-radius: 50%;
 }
